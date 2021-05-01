@@ -38,18 +38,18 @@ Dionaea return the ports that has been scanned. For instance in my case, I nmap 
 
 ### Malware Capture and Identification (Optional)
 
-#### X Malware
+#### Trojan Malware
 
 **Summary:** How did you find it? I go to payloads and select dionaea.capture in the mhn-admin site. Which honeypot captured it? 
 I use Honeypot Dionaea to capture it.
 
 What does each malware do?
+The Trojan downloader malware is a trojan horse(looks like a legitable software but it contains malicious files and programs) that will install malicious programs into the computer without user's consent. 
+
 
 MD5 Hash: 6df195b040f1b3af16df03753674cf97
- *Run `md5sum` on the file and record the hash here.*
 
-SHA512 Hash: 9c8c827981a815f9c8e51a97505765df083b88c140eaaf77132644bad6d900557af3c49190791f7542dc27dff4e676f3d295f9c48ddcbfa6d2741d1c28449160
-*Run `sha1sum` on the file and record the hash here.*
+SHA1 Hash: c14d273995ce12db691687c0cfde7e31056ef380
 
 <img src="malware.gif">
 
