@@ -19,7 +19,10 @@ I use Google Cloud Platform to deploy it.
 
 ### Database Backup (Required) 
 
-**Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
+**Summary:**
+ What is the RDBMS that MHN-Admin uses? MHN-Admin uses MongoDB.
+
+ What information does the exported JSON file record?
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
@@ -35,7 +38,10 @@ I use Google Cloud Platform to deploy it.
 
 #### X Malware
 
-**Summary:** How did you find it? Which honeypot captured it? What does each malware do?
+**Summary:** How did you find it? Which honeypot captured it?
+I use Honeypot Dionaea to capture it.
+
+What does each malware do?
 
 MD5 Hash: *Run `md5sum` on the file and record the hash here.*
 
