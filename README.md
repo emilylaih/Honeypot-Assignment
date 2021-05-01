@@ -16,7 +16,7 @@ I use Google Cloud Platform to deploy it.
 **Summary:** Briefly in your own words, what does dionaea do?
 Dionaea return the ports that has been scanned. For instance in my case, I nmap scan my Dionaea honeypot to test it and my mhn-admin site shows the ports that nmap have scanned as attacks.  
 
-<img src="dionaea-honeypot.gif">
+<img src="attacks.gif">
 
 ### Database Backup (Required) 
 
@@ -24,6 +24,7 @@ Dionaea return the ports that has been scanned. For instance in my case, I nmap 
  What is the RDBMS that MHN-Admin uses? MHN-Admin uses MongoDB.
 
  What information does the exported JSON file record?
+ 
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
