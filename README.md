@@ -57,4 +57,4 @@ SHA1 Hash: c14d273995ce12db691687c0cfde7e31056ef380
 
 ## Notes
 
-Describe any challenges encountered while doing the assignment.
+I had to reinstall the honeypot VM because it didn't recieve much attacks. 
