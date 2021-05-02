@@ -14,7 +14,7 @@ I use Google Cloud Platform to deploy it.
 ### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Briefly in your own words, what does dionaea do?
-Dionaea return the ports that has been scanned. For instance in my case, I nmap scan my Dionaea honeypot to test it and my mhn-admin site shows the ports that nmap have scanned as attacks.  
+Dionaea return the ports that has been scanned by other devices. For instance in my case, I nmap scan my Dionaea honeypot to test it and my mhn-admin site shows the ports that nmap have scanned as attacks.  
 
 <img src="attacks.gif">
 
