@@ -23,7 +23,7 @@ Dionaea return the ports that has been scanned. For instance in my case, I nmap 
 **Summary:**
  What is the RDBMS that MHN-Admin uses? MHN-Admin uses MongoDB.
 
- What information does the exported JSON file record?
+ What information does the exported JSON file record? It records all the information(destination ports,source ip address, timestamps, countires and protocol) that the honeypot receives. 
  
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
